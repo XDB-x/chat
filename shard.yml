@@ -1,0 +1,13 @@
+name: chat
+version: 0.1.0
+
+authors:
+  - Dongbo Xie <leox0218@gmail.com>
+
+targets:
+  chat:
+    main: src/chat.cr
+
+crystal: '>= 1.10.1'
+
+license: MIT
